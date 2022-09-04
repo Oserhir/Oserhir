@@ -12,8 +12,8 @@
 <img  alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 
-> 👨‍💻 All of my projects are available at : https://oserhir.netlify.app/
-> 📫 How to reach me oserhir.youssef@gmail.com
+- 👨‍💻 All of my projects are available at : https://oserhir.netlify.app/
+- 📫 How to reach me oserhir.youssef@gmail.com
  
 
  
