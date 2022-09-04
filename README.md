@@ -11,9 +11,8 @@
 <img align="left"  alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
 <img  alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-##  Here is my protfolio :
-> Build with Javascript :
-https://oserhir.netlify.app/
+
+> 👨‍💻 All of my projects are available at : https://oserhir.netlify.app/
 
 
 
