@@ -24,5 +24,4 @@
 
  <a href="https://www.linkedin.com/in/oserhir-youssef-1a7ab7209" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Oserhir&repo=CRUD_Blog_Application&bg_color=DEG)](https://github.com/Oserhir/CRUD_Blog_Application)
  
