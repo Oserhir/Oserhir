@@ -1,5 +1,8 @@
+
+
 ## Hi there, I'm Youssef! 👋 
- 
+
+
 
 <img align="left"   width="47%"   src="https://github-readme-stats.vercel.app/api?username=oserhir&theme=vue-dark" />
 <img  align="left"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oserhir&layout=compact" />
@@ -19,9 +22,13 @@
 
 * 🖥️  See my portfolio at  https://oserhir.netlify.app/
 * ✉️  You can contact me at oserhir.youssef@gmail.com
- 
-### Socials
 
- <a href="https://www.linkedin.com/in/oserhir-youssef-1a7ab7209" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/saad-mrabet/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+   
+</div>
+ 
  
  
