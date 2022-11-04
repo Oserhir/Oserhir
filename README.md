@@ -24,7 +24,7 @@
 * ✉️  You can contact me at oserhir.youssef@gmail.com
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/saad-mrabet/">
+  <a href="https://www.linkedin.com/in/oserhir-youssef/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    
