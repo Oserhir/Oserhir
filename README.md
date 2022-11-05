@@ -20,7 +20,7 @@
 
 
 
-* 🖥️  See my portfolio at  https://oserhir.netlify.app/
+* 🖥️  See my portfolio at https://youssefoserhir.netlify.app/
 * ✉️  You can contact me at oserhir.youssef@gmail.com
 
 <div id="badges">
