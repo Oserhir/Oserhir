@@ -4,7 +4,7 @@
 
 
 
-<img align="left"   width="47%"   src="https://github-readme-stats.vercel.app/api?username=oserhir&theme=vue-dark" />
+<img align="left"   width="46%"   src="https://github-readme-stats.vercel.app/api?username=oserhir&theme=vue-dark" />
 <img  align="left"  width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oserhir&layout=compact" />
 
 ><br /><br /><br /><br /><br /><br /> 
